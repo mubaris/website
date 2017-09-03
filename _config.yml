@@ -27,5 +27,5 @@ github:
   repo:         https://github.com/mubaris/mubaris.github.io
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
