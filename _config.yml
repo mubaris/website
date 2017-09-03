@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Morning Data
+title:          The Morning Data
 paginate:       5
 baseurl:        ""
 url:            ""
