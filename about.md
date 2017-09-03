@@ -17,6 +17,3 @@ You can contact me through one of the following:
 - [LinkedIn](https://www.linkedin.com/in/mubaris-hassan/)
 
 Don't forget to checkout my [Github](https://github.com/mubaris)
-
-
-[My Resume](https://drive.google.com/file/d/0B9s3_eTCzuQ-QWRjMjhrdjdvbzg/view?usp=sharing)
