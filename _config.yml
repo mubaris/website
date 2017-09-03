@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Morning Data
 paginate:       5
 baseurl:        ""
-url:            "mubaris.com"
+url:            ""
 
 # Assets
 sass:
@@ -18,7 +18,7 @@ markdown:       kramdown
 # About
 author:
   name:         Mubaris NK
-  url:          http://mubaris.com
+  url:          https://mubaris.com
   email:        mubarishassannk@gmail.com
 
 # Custom vars
