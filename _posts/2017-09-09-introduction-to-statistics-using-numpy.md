@@ -128,3 +128,5 @@ This data is collected from a survey of 1147 European developers. As you can see
 * The dataset can be downloaded from here - [salary.txt](../files/salary.txt)
 
 * The result of the survey (it has additional informations like *Years of Experience*, *Country*, etc) can be downloaded from here - [salary.csv](../files/salary.csv)
+
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15207073)
