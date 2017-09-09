@@ -54,3 +54,5 @@ This Venn Diagram explains who is a Data Scientist very well. A Data Scientist i
 * and **Curiosity**
 
 That concludes the question *What is Data Science?* and *Who is a Data Scientist?* We will discover more about Data Science in the new posts. Stay tuned.
+
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15205886)
