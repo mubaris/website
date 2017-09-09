@@ -100,7 +100,7 @@ import numpy as np
 
 # Reading the file and storing it on X
 with open('salary.txt') as f:
-	X = f.read().splilines()
+	X = f.read().splitlines()
 
 # Print the size of the dataset
 print(len(X)) # 1147
