@@ -99,8 +99,8 @@ Now we are gonna write a program to perform basic statistical methods on real li
 import numpy as np
 
 # Reading the file and storing it on X
-with open('salary.txt' as f:
-	X = f.read().spiltlines()
+with open('salary.txt') as f:
+	X = f.read().splilines()
 
 # Print the size of the dataset
 print(len(X)) # 1147
