@@ -43,11 +43,11 @@ Variance and Standard Deviation measures the **spread** of your dataset.
 
 The Variance is defined as follows,
 
-![Variance](https://i.imgur.com/WbFpKDO.png)
+![Variance](https://i.imgur.com/a10dUVp.jpg)
 
 Standard Deviation is the squared root of Variance. Standard Deviation is a measure that is used to quantify the amount of variation or dispersion of a set of data values. A low standard deviation indicates that the data points tend to be close to the mean of the set, while a high standard deviation indicates that the data points are spread out over a wider range of values.
 
-![SD](https://i.imgur.com/UeFKSYY.jpg)
+![SD](https://i.imgur.com/MN7jU2h.jpg)
 
 ## NumPy
 
