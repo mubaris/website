@@ -16,10 +16,14 @@ When I thought about writing a blog related to Data Science, this name came to m
 
 You can contact me through one of the following:
 
-- [Mail](mailto:mubarishassannk@gmail.com)
-- [Twitter](https://twitter.com/MubarisHassan)
-- [Facebook](https://www.facebook.com/mubaris.hassan.7)
-- [Instagram](https://instagram.com/MubarisHassan)
-- [LinkedIn](https://www.linkedin.com/in/mubaris-nk/)
+[Mail](mailto:mubarishassannk@gmail.com)
+
+[Twitter](https://twitter.com/MubarisHassan)
+
+[Facebook](https://www.facebook.com/mubaris.hassan.7)
+
+[Instagram](https://instagram.com/MubarisHassan)
+
+<a href="https://www.linkedin.com/in/mubaris-nk/" onClick="ga('send', 'event', { eventCategory: 'LinkedIn', eventAction: 'click', eventLabel: 'LinkedIn', eventValue: 1});">LinkedIn</a>
 
 Don't forget to checkout my [Github](https://github.com/mubaris)
