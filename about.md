@@ -20,6 +20,6 @@ You can contact me through one of the following:
 - [Twitter](https://twitter.com/MubarisHassan)
 - [Facebook](https://www.facebook.com/mubaris.hassan.7)
 - [Instagram](https://instagram.com/MubarisHassan)
-- [LinkedIn](https://www.linkedin.com/in/mubaris-hassan/)
+- [LinkedIn](https://www.linkedin.com/in/mubaris-nk/)
 
 Don't forget to checkout my [Github](https://github.com/mubaris)
