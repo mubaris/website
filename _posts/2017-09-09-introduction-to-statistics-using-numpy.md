@@ -125,8 +125,8 @@ print(variance) # 3043770333.8474483
 
 This data is collected from a survey of 1147 European developers. As you can see, the average(mean) salary is €55,894.54 and have median of €48,000.
 
-* The dataset can be downloaded from here - [salary.txt](../files/salary.txt)
+* The dataset can be downloaded from here - <a href="https://mubaris.com/files/salary.txt" onClick="ga('send', 'event', { eventCategory: 'salary', eventAction: 'click', eventLabel: 'salary.txt', eventValue: 1});">salary.txt</a>
 
-* The result of the survey (it has additional informations like *Years of Experience*, *Country*, etc) can be downloaded from here - [salary.csv](../files/salary.csv)
+* The result of the survey (it has additional informations like *Years of Experience*, *Country*, etc) can be downloaded from here - <a href="https://mubaris.com/files/salary.csv" onClick="ga('send', 'event', { eventCategory: 'salary', eventAction: 'click', eventLabel: 'salary.txt', eventValue: 1});">salary.csv</a>
 
 Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15207073)
