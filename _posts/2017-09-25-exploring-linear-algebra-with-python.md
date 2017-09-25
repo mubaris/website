@@ -195,3 +195,5 @@ print(bdet) # -660.0
 * [Khan Acedemy Tutorial](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra Chapter - Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15328784)
