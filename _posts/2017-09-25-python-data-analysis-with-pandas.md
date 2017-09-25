@@ -1152,3 +1152,4 @@ But, sadly our datset reduced to a small one. But, you get the point.
 
 There are many more useful tools in pandas. We'll see more about them in upcoming posts.
 
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15331975)
