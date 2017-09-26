@@ -517,3 +517,5 @@ plt.show()
 ## Conclusion
 
 So far we have learned how to create **Line plots, Bar plots and Histograms** using **Matplotlib** library. In the future posts we will learn more about how to create more plots. Also, we will use data science methods for a particular case study.
+
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15337132)
