@@ -130,3 +130,15 @@ This data is collected from a survey of 1147 European developers. As you can see
 * The result of the survey (it has additional informations like *Years of Experience*, *Country*, etc) can be downloaded from here - <a href="https://mubaris.com/files/salary.csv" onClick="ga('send', 'event', { eventCategory: 'salary', eventAction: 'click', eventLabel: 'salary.txt', eventValue: 1});">salary.csv</a>
 
 Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15207073)
+
+<div id="mc_embed_signup">
+<form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Subscribe for more Awesome!</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f9e9a4985cce81e89169df2bf_3654da5463" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
