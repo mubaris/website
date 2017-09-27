@@ -50,7 +50,7 @@ Clustering is an unsupervised machine learning task that automatically divides t
 
 ![ML Classes](https://i.imgur.com/emDnmdY.png)
 
-Read [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) for more.
+I highly recommend reading [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
 
 ## Books for Beginners
 
@@ -66,6 +66,8 @@ This is a great introduction to Machine Learning using R.
 
 Machine Learning in Action is unique book that blends the foundational theories of machine learning with the practical realities of building tools for everyday data analysis using Python.
 
+
+Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15346778)
 
 
 <div id="mc_embed_signup">
