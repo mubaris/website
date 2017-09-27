@@ -10,9 +10,10 @@
           <h2 class="nav-title">{{ site.title }}</h2>
         </a>
         <ul>
+          <li><a href="{{ '/subscribe' | prepend: site.url }}"><b>Subscribe</b></a></li>
           <li><a href="{{ '/about' | prepend: site.url }}">About</a></li>
           <li><a href="{{ site.baseurl }}/">Posts</a></li>
-	  <li><a href="https://mubaris.com/CV.pdf" onClick="ga('send', 'event', { eventCategory: 'CV', eventAction: 'click', eventLabel: 'CV.pdf', eventValue: 1});" target="_blank">Resume</a></li>
+	        <li><a href="https://mubaris.com/CV.pdf" onClick="ga('send', 'event', { eventCategory: 'CV', eventAction: 'click', eventLabel: 'CV.pdf', eventValue: 1});" target="_blank">Resume</a></li>
         </ul>
     </div>
   </nav>
