@@ -28,7 +28,7 @@ Earlier in this post we discussed that we are going to approximate the relations
 
 ![Linear Regression](https://i.imgur.com/pXEpE6x.png)
 
-And you can see a line in the image. That's what we are going to accomplish. And we want to minimize the error of out model. A good model will always have least error. We can find this line by reducing the error. The error of each point is the distance between line and that point. This is illustrated as follows.
+And you can see a line in the image. That's what we are going to accomplish. And we want to minimize the error of our model. A good model will always have least error. We can find this line by reducing the error. The error of each point is the distance between line and that point. This is illustrated as follows.
 
 ![Residue](https://i.imgur.com/306wvA1.png)
 
