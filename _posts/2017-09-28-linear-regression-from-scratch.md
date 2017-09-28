@@ -325,11 +325,11 @@ Now we can convert this eqaution to matrix form.
 
 Where,
 
-\\[\beta = \begin{bmatrix}\beta_0\\\beta_1\\\beta_2\\.\\.\\\beta_n\end{bmatrix}\\]
+\\[\beta = \begin{bmatrix}\beta_0 & \beta_1 & \beta_2 & .. & \beta_n\end{bmatrix}^T\\]
 
 and
 
-\\[X = \begin{bmatrix}x_0\\x_1\\x_2\\.\\.\\x_n\end{bmatrix}\\]
+\\[X = \begin{bmatrix}x_0 & x_1 & x_2 & .. & x_n\end{bmatrix}^T\\]
 
 We have to define the cost of the model. Cost bascially gives the error in our model. **Y** in above equation is the our hypothesis(approximation). We are going to define it as our hypothesis function.
 
