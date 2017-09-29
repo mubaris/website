@@ -8,6 +8,15 @@ title: Home
     <a href="{{ post.url | prepend: site.url }}" class="catalogue-item">
       <div>
         <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <span class="catalogue-time">
+          &middot;
+          {% assign words = post.content | number_of_words %}
+          {% if words < 360 %}
+            1 min read
+          {% else %}
+            {{ words | divided_by:200 }} min read
+          {% endif %}
+        </span>
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
