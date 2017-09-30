@@ -2,6 +2,7 @@
 layout: post
 title:  "What is Machine Learning?"
 author: "Mubaris NK"
+comments: true
 ---
 
 *Learning*, like intelligence, covers such a broad range of processes that it is difficult to define precisely. According to Wikipedia, Learning is the act of acquiring new or modifying and reinforcing existing knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experiences.
