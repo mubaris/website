@@ -8,6 +8,9 @@ paginate:       5
 baseurl:        ""
 url:            https://mubaris.com
 
+twitter:
+  username:     MubarisHassan
+
 # Assets
 sass:
   sass_dir:     _sass
@@ -31,3 +34,4 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
