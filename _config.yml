@@ -28,7 +28,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/mubaris/mubaris.github.io
+  repo:         https://github.com/mubaris/website
 
 # Plugins
 plugins:
