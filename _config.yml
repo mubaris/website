@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          The Morning Data
+title:          Mubaris NK
 description:    Exploring Machine Learning and Data Science
 paginate:       5
 baseurl:        ""
