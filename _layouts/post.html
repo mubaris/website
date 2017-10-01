@@ -9,8 +9,8 @@ layout: default
     {% if page.date %}
       <br>
       <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      <br>
       <span class="reading-time" title="Estimated read time">
-        &middot;
         {% assign words = content | number_of_words %}
         {% if words < 360 %}
           1 min read
@@ -18,6 +18,7 @@ layout: default
           {{ words | divided_by:200 }} min read
         {% endif %}
       </span>
+      {% if page.comments %} &middot; <a href="https://mubaris.com{{ page.url }}#disqus_thread"></a>{% endif %}
 
     {% endif %}
   </div>
