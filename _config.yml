@@ -3,9 +3,10 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          The Morning Data
+description:    Exploring Machine Learning and Data Science
 paginate:       5
 baseurl:        ""
-url:            ""
+url:            https://mubaris.com
 
 # Assets
 sass:
@@ -29,3 +30,4 @@ github:
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
