@@ -2,6 +2,7 @@
 layout: post
 title:  "Python Data Analysis with pandas"
 author: "Mubaris NK"
+comments: true
 ---
 
 Python is a great language for data analysis. **pandas** is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world data analysis in Python.
@@ -1152,7 +1153,6 @@ But, sadly our datset reduced to a small one. But, you get the point.
 
 There are many more useful tools in pandas. We'll see more about them in upcoming posts.
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15331975)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

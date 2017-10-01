@@ -2,6 +2,7 @@
 layout: post
 title:  "Introduction to Statistics using NumPy"
 author: "Mubaris NK"
+comments: true
 ---
 
 ## Statistics
@@ -129,7 +130,6 @@ This data is collected from a survey of 1147 European developers. As you can see
 
 * The result of the survey (it has additional informations like *Years of Experience*, *Country*, etc) can be downloaded from here - <a href="https://mubaris.com/files/salary.csv" onClick="ga('send', 'event', { eventCategory: 'salary', eventAction: 'click', eventLabel: 'salary.txt', eventValue: 1});">salary.csv</a>
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15207073)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

@@ -2,6 +2,7 @@
 layout: post
 title:  "What is Data Science?"
 author: "Mubaris NK"
+comments: true
 ---
 
 > ### "Data Scientist: The Sexiest Job of the 21st Century" - Harvard Business Review
@@ -55,7 +56,6 @@ This Venn Diagram explains who is a Data Scientist very well. A Data Scientist i
 
 That concludes the question *What is Data Science?* and *Who is a Data Scientist?* We will discover more about Data Science in the new posts. Stay tuned.
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15205886)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

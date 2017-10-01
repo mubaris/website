@@ -2,6 +2,7 @@
 layout: post
 title:  "Exploring Linear Algebra with Python"
 author: "Mubaris NK"
+comments: true
 ---
 
 ## Scalars, Vectors and Matrices
@@ -196,7 +197,6 @@ print(bdet) # -660.0
 * [Linear Algebra Chapter - Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15328784)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

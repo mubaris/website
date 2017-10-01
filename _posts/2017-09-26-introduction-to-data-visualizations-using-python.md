@@ -2,6 +2,7 @@
 layout: post
 title:  "Introduction to Data Visualization using Python"
 author: "Mubaris NK"
+comments: true
 ---
 
 Data visualization is one of primary skills of any data scientist. It's also a large field in itself. There are many courses available just focused on Data Visualization. This post is just an introduction to this much broader topic.
@@ -518,7 +519,6 @@ plt.show()
 
 So far we have learned how to create **Line plots, Bar plots and Histograms** using **Matplotlib** library. In the future posts we will learn more about how to create more plots. Also, we will use data science methods for a particular case study.
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15337132)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

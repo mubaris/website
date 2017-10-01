@@ -2,6 +2,7 @@
 layout: post
 title:  "Linear Regression from Scratch in Python"
 author: "Mubaris NK"
+comments: true
 ---
 
 Linear Regression is one of the easiest algorithms in machine learning. In this post we will explore this algorithm and we will implement it using Python from scratch.
@@ -642,7 +643,6 @@ All the datasets and codes are available in this [Github Repo](https://github.co
 
 Let me know if you found any errors.
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15357798)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>

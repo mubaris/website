@@ -67,7 +67,6 @@ Machine Learning in Action is unique book that blends the foundational theories 
 
 I highly recommend reading [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/).
 
-Discuss this post on [Hacker News](https://news.ycombinator.com/item?id=15346778)
 
 
 <div id="mc_embed_signup">
