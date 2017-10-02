@@ -388,7 +388,7 @@ Even though it works very well, K-Means clustering has its own issues. That incl
 
 Have a look at this [StackOverflow Answer](https://stats.stackexchange.com/a/133841) for detailed explanation.
 
-Let me know if you found any errors.
+Let me know if you found any errors and checkout this post on [Hacker News](https://news.ycombinator.com/item?id=15383216)
 
 <div id="mc_embed_signup">
 <form action="//mubaris.us16.list-manage.com/subscribe/post?u=f9e9a4985cce81e89169df2bf&amp;id=3654da5463" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
