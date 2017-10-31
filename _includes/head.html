@@ -17,8 +17,11 @@
     <meta name="twitter:description" content="{{ page.content | truncatewords: 30 | strip_html }}">
     {% if page.twimg %}
       <meta name="twitter:image" content="{{ page.twimg }}">
+      <meta property="og:image" content="{{ page.twimg }}" />
+
     {% else %}
       <meta name="twitter:image" content="https://i.imgur.com/YRWkl6Z.png">
+      <meta property="og:image" content="https://i.imgur.com/YRWkl6Z.png" />
     {% endif %}
   {% else %}
     <meta name="twitter:card" content="summary_large_image">
@@ -27,6 +30,7 @@
     <meta name="twitter:title" content="{{ page.title }} by {{ page.author }}">
     <meta name="twitter:description" content="Hi! My Name is Mubaris NK.">
     <meta name="twitter:image" content="https://i.imgur.com/YRWkl6Z.png">
+    <meta property="og:image" content="https://i.imgur.com/YRWkl6Z.png" />
   {% endif %}
   <!-- Mathjax -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
