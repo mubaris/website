@@ -16,11 +16,11 @@
     <meta name="twitter:title" content="{{ page.title }} by {{ page.author }}" />
     <meta name="twitter:description" content="{{ page.content | truncatewords: 30 | strip_html }}" />
     {% if page.twimg %}
-      <meta name="twitter:image" content="{{ page.twimg }}" />
+      <meta name="twitter:image:src" content="{{ page.twimg }}" />
       <meta property="og:image" content="{{ page.twimg }}" />
 
     {% else %}
-      <meta name="twitter:image" content="https://i.imgur.com/cHrsOcl.jpg" />
+      <meta name="twitter:image:src" content="https://i.imgur.com/cHrsOcl.jpg" />
       <meta property="og:image" content="https://i.imgur.com/cHrsOcl.jpg" />
     {% endif %}
   {% else %}
@@ -29,7 +29,7 @@
     <meta name="twitter:creator" content="@Mubaris_NK" />
     <meta name="twitter:title" content="{{ page.title }} by {{ page.author }}" />
     <meta name="twitter:description" content="Hi! My Name is Mubaris NK." />
-    <meta name="twitter:image" content="https://i.imgur.com/cHrsOcl.jpg" />
+    <meta name="twitter:image:src" content="https://i.imgur.com/cHrsOcl.jpg" />
     <meta property="og:image" content="https://i.imgur.com/cHrsOcl.jpg" />
   {% endif %}
   <!-- Mathjax -->
