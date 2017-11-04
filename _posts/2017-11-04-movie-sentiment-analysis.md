@@ -74,7 +74,7 @@ sentiment_subjectivity = blob.sentiment.subjectivity # 0.6931818181818182
 
 ## The Method
 
-We can divide the method in to x steps.
+We can divide the method in to 4 steps.
 
 * Divide total running time to constant time intervals
 * Collect and combine all the text in each time interval
