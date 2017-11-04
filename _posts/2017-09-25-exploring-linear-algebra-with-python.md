@@ -3,6 +3,7 @@ layout: post
 title:  "Exploring Linear Algebra with Python"
 author: "Mubaris NK"
 comments: true
+tags: python data-science numpy tutorial
 ---
 
 ## Scalars, Vectors and Matrices

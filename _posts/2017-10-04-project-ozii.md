@@ -3,6 +3,7 @@ layout: post
 title:  "Project Ozii - Generating PulseGraphs from Text"
 author: "Mubaris NK"
 comments: true
+tags: python project
 ---
 
 Ever since I watched the movie **'Arrival'**, I wanted to create my own logographs. Just like the one they show in the movie. So, I started searching about the symbols they shown in the movie. I found that the movie company hired Wolfram to produce the logographs. Later, they did a live coding broadcast related to this. You can watch the video [here](https://www.youtube.com/watch?v=r8nTifCIr0c). 38 of these logographs and related documents are available in this [Github Repo](https://github.com/WolframResearch/Arrival-Movie-Live-Coding). These logographs look like this:

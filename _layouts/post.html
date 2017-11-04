@@ -21,6 +21,15 @@ layout: default
       {% if page.comments %} &middot; <a data-disqus-url="https://mubaris.com{{ page.url }}#disqus_thread" href="https://mubaris.com{{ page.url }}#disqus_thread"></a>{% endif %}
       <!--<span class="disqus-comment-count" data-disqus-url="https://mubaris.com{{ page.url }}#disqus_thread">First article</span>-->
 
+      <div>
+        <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+      </div>
+
     {% endif %}
   </div>
 
@@ -33,10 +42,10 @@ layout: default
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.url }}" class="left arrow">&#8592;</a>
+    <b><a href="{{ page.next.url | prepend: site.url }}" class="left arrow">&#8592; Newest</a></b>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.url }}" class="right arrow">&#8594;</a>
+    <b><a href="{{ page.previous.url | prepend: site.url }}" class="right arrow">Oldest &#8594;</a></b>
   {% endif %}
 
   <a href="#" class="top">Top</a>

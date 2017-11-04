@@ -3,6 +3,7 @@ layout: post
 title:  "Linear Regression from Scratch in Python"
 author: "Mubaris NK"
 comments: true
+tags: python ml tutorial
 ---
 
 Linear Regression is one of the easiest algorithms in machine learning. In this post we will explore this algorithm and we will implement it using Python from scratch.

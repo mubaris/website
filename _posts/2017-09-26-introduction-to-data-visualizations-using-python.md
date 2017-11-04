@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to Data Visualization using Python"
 author: "Mubaris NK"
 comments: true
+tags: python data-science matplotlib tutorial
 ---
 
 Data visualization is one of primary skills of any data scientist. It's also a large field in itself. There are many courses available just focused on Data Visualization. This post is just an introduction to this much broader topic.

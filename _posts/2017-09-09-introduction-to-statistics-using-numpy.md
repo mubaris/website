@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to Statistics using NumPy"
 author: "Mubaris NK"
 comments: true
+tags: python numpy data-science tutorial
 ---
 
 ## Statistics

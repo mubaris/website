@@ -3,6 +3,7 @@ layout: post
 title:  "What is Data Science?"
 author: "Mubaris NK"
 comments: true
+tags: intro data-science
 ---
 
 > ### "Data Scientist: The Sexiest Job of the 21st Century" - Harvard Business Review
