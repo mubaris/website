@@ -4,6 +4,8 @@ title:  "Analyzing Movie Subtitles"
 author: "Mubaris NK"
 comments: true
 tags: python data-science nlp
+twimg: https://i.imgur.com/etpqMur.png
+image: https://i.imgur.com/etpqMur.png
 ---
 
 In this post we will analyze a movie using sentiment analysis of its subtitles. This is little bit tricky. Because, the subtitles are time dependant data. Unlike other time series data, subtitles don't have constant time intervals. We will need to change them to equal time intervals. We will use various Python modules to analyze the subtitles. Let's start with importing the subtitle.
