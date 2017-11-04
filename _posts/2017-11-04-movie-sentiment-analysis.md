@@ -173,7 +173,7 @@ ttl.set_position([.5, 1.05])
 ![png](https://mubaris.com/files/images/output_4_0.png)
 
 
-There we have our plot of Sentiment Analysis of subtitle against the running time. All code is available on [GitHub](https://github.com/mubaris/dataviz-gallery)
+There we have our plot of Sentiment Analysis of subtitle against the running time. All code is available on [GitHub](https://github.com/mubaris/dataviz-gallery/tree/master/movie-subtitles)
 
 ## More Examples
 
