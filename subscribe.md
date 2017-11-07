@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Subscribe"
+title: "Letter by Mubaris"
 author: "Mubaris"
 permalink: /subscribe/
 ---
 
 Like this blog? Don't forget to subscribe for more awesome content.
+
+I'm going to share with you what's new and cool in the world of Data Science and Machine Learning, with content for beginners to pros. I'll also probably send you stories, tools, tips, and tricks. I won't spam though, I promise.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -50,3 +52,7 @@ Like this blog? Don't forget to subscribe for more awesome content.
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='BIRTHDAY';ftypes[3]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+## Archives
+
+* [Issue #1](http://mailchi.mp/27a12f6c53c0/letter-by-mubaris?e=ea9eaf5dc6)
