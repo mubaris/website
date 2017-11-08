@@ -6,6 +6,8 @@ comments: true
 tags: python numpy data-science tutorial
 ---
 
+Translations - [Russian](http://howtorecover.me/vvedenie-v-statistiku-s-ispolzovaniem-numpy)
+
 ## Statistics
 
 Broadly, statistics is concerned with collecting and analyzing data. It seeks to describe rigorous methods for collecting data (samples), for describing the data, and for inferring conclusions from the data.
