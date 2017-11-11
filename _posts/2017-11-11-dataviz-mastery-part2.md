@@ -40,7 +40,7 @@ Creating Word Cloud is very easy with the help [wordcloud](https://github.com/am
 
 ### Word Cloud 1 - Simple
 
-We will create a Word Cloud of top words from Wonder Woman Movie. We will use the movie script provided in [this website](https://www.springfieldspringfield.co.uk/movie_script.php?movie=wonder-woman-2017). We will need to remove [Stop Words](https://en.wikipedia.org/wiki/Stop_words) from the script before creating the cloud. `wordcloud` library provides a list of stop words. We will use that list.
+We will create a Word Cloud of top words from Wonder Woman Movie. We will use the movie script provided in [this website](https://www.springfieldspringfield.co.uk/movie_script.php?movie=wonder-woman-2017). We will need to remove [Stop Words](https://en.wikipedia.org/wiki/Stop_words) from the script before creating the cloud. `wordcloud` library provides a list of stop words. We will use that for our usage.
 
 
 ```python
