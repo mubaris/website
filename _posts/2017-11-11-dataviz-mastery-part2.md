@@ -328,7 +328,7 @@ plt.axis("off")
 ![png](https://mubaris.com/files/images/output_17_1.png)
 
 
-That's all for Word Clouds. We will be continue this series with more visualization tutorials. Checkout the following references and books to learn more. Checkout [this Github Repo]() for the code and more visualizations.
+That's all for Word Clouds. We will be continue this series with more visualization tutorials. Checkout the following references and books to learn more. Checkout [this Github Repo](https://github.com/mubaris/dataviz-gallery/tree/master/word-clouds) for the code and more visualizations.
 
 ## Resources
 
