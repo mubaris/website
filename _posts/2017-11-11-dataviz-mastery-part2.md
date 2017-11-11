@@ -181,7 +181,7 @@ plt.axis("off")
 
 ### Word Cloud 4 - Cannon of Sherlock Holmes
 
-In this example, we will create a word cloud from the "Cannon of Sherlock Holmes".
+In this example, we will create a word cloud from the "Canon of Sherlock Holmes".
 
 
 ```python
