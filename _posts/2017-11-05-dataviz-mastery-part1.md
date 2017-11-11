@@ -324,7 +324,7 @@ fig.set_facecolor('#effeef')
 ![png](https://mubaris.com/files/images/output_8_0_1.png)
 
 
-That concludes the part 1 of DataViz Mastery. Let me know if you have any questions. In the next DataViz Mastery post we will learn how to create Choropleth Maps in Python
+That concludes the part 1 of DataViz Mastery. Let me know if you have any questions. In the next DataViz Mastery post we will learn how to create Word Clouds using Python
 
 Checkout this [Github Repo](https://github.com/mubaris/dataviz-gallery/) for more visualizations.
 
