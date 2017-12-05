@@ -56,3 +56,4 @@ I'm going to share with you what's new and cool in the world of Data Science and
 ## Archives
 
 * [Issue #1](http://mailchi.mp/27a12f6c53c0/letter-by-mubaris?e=ea9eaf5dc6)
+* [Issue #2](http://mailchi.mp/f72dd6522fa7/letter-by-mubaris-2?e=[UNIQID])
