@@ -7,8 +7,6 @@ gem "jekyll"
 
 gem 'jekyll-seo-tag'
 
-gem "sass"
-
 gem 'jekyll-sitemap'
 
 group :jekyll_plugins do
