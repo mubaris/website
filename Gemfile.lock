@@ -55,6 +55,8 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  rb-fsevent
+  rb-inotify
 
 BUNDLED WITH
    1.15.4
