@@ -83,8 +83,8 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 twitter:
