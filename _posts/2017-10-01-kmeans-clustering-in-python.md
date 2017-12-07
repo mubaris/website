@@ -3,6 +3,8 @@ layout: post
 title:  "K-Means Clustering in Python"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post8.jpg
 tags: python ml tutorial
 ---
 

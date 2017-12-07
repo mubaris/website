@@ -3,6 +3,8 @@ layout: post
 title:  "What is Data Science?"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post1.jpg
 tags: intro data-science
 ---
 

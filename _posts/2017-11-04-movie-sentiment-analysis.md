@@ -3,7 +3,9 @@ layout: post
 title:  "Analyzing Movie Subtitles"
 author: "Mubaris NK"
 comments: true
+catalog: true
 tags: python data-science nlp
+header-img: files/images/post12.jpg
 twimg: https://i.imgur.com/etpqMur.png
 image: https://i.imgur.com/etpqMur.png
 ---

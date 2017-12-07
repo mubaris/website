@@ -3,6 +3,8 @@ layout: post
 title:  "Python Data Analysis with pandas"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post4.jpg
 tags: python data-science pandas tutorial
 ---
 

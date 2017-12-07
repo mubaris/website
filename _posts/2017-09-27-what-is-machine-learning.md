@@ -3,6 +3,8 @@ layout: post
 title:  "What is Machine Learning?"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post6.jpg
 tags: ml intro
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title:  "Introduction to Data Visualization using Python"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post5.jpeg
 tags: python data-science matplotlib tutorial
 ---
 

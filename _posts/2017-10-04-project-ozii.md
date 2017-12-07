@@ -3,6 +3,8 @@ layout: post
 title:  "Project Ozii - Generating PulseGraphs from Text"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post9.jpg
 tags: python project
 ---
 

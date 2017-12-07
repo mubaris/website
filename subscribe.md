@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Letter by Mubaris"
+title: "Subscribe"
 author: "Mubaris"
 permalink: /subscribe/
+header-img: files/images/subscribe.jpg
+date: 2017-10-01
 ---
 
 Like this blog? Don't forget to subscribe for more awesome content.

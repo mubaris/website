@@ -3,6 +3,8 @@ layout: post
 title:  "Linear Regression from Scratch in Python"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post7.jpg
 tags: python ml tutorial
 ---
 

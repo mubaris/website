@@ -3,6 +3,8 @@ layout: post
 title:  "Support Vector Machines for Classification"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post10.jpg
 tags: python tutorial ml
 ---
 

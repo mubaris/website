@@ -4,6 +4,8 @@ title:  "DataViz Mastery Part 1 - Treemaps"
 author: "Mubaris NK"
 comments: true
 tags: python dataviz tutorial
+catalog: true
+header-img: files/images/post13.jpg
 twimg: https://i.imgur.com/SJwm2Kg.png
 image: https://i.imgur.com/SJwm2Kg.png
 ---

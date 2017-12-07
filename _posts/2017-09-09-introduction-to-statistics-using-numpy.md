@@ -3,6 +3,8 @@ layout: post
 title:  "Introduction to Statistics using NumPy"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post2.jpg
 tags: python numpy data-science tutorial
 ---
 

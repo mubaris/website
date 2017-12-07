@@ -3,6 +3,8 @@ layout: post
 title:  "Exploring Linear Algebra with Python"
 author: "Mubaris NK"
 comments: true
+catalog: true
+header-img: files/images/post3.jpg
 tags: python data-science numpy tutorial
 ---
 

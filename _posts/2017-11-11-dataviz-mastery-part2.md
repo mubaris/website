@@ -3,7 +3,9 @@ layout: post
 title:  "DataViz Mastery Part 2 - Word Clouds"
 author: "Mubaris NK"
 comments: true
+catalog: true
 tags: python dataviz tutorial
+header-img: files/images/post14.jpg
 twimg: https://mubaris.com/files/images/output_11_1.png
 image: https://mubaris.com/files/images/output_11_1.png
 ---
