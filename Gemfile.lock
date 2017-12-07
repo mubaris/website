@@ -53,6 +53,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  sass
 
 BUNDLED WITH
    1.16.0
