@@ -82,12 +82,7 @@ featured-condition-size: 2              # A tag will be featured if the size of 
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
