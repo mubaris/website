@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Mubaris' Blog",
+  "short_name": "Mubaris' Blog",
+  "description": "Exploring Machine Learning and Data Science",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
