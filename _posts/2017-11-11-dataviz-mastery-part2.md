@@ -8,6 +8,7 @@ tags: python dataviz tutorial
 header-img: files/images/post14.jpg
 twimg: https://mubaris.com/files/images/output_11_1.png
 image: https://mubaris.com/files/images/output_11_1.png
+redirect_from: /2017-11-11/dataviz-mastery-part2/
 ---
 
 This is part 2 of DataViz Mastery. In part 1, we learned how to create Treemaps using Python - [Read it here](https://mubaris.com/2017-11-05/dataviz-mastery-part1). In this post we will learn how to create Word Clouds using Python. So, let's get started.

@@ -8,6 +8,7 @@ catalog: true
 header-img: files/images/post13.jpg
 twimg: https://i.imgur.com/SJwm2Kg.png
 image: https://i.imgur.com/SJwm2Kg.png
+redirect_from: /2017-11-05/dataviz-mastery-part1/
 ---
 
 DataViz Mastery will be a series blog posts which aims to master data visualizations using Python. I am aiming to cover all visualizations in [DataViz Project](http://datavizproject.com/). In this part 1 of the series we will cover how to create [Treemaps](http://datavizproject.com/data-type/treemap/) with Python.

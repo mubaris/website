@@ -6,6 +6,7 @@ comments: true
 catalog: true
 header-img: files/images/post10.jpg
 tags: python tutorial ml
+redirect_from: /2017-10-14/svm-python/
 ---
 
 A **Support Vector Machine (SVM)** is a very powerful and flexible Machine Learning Model, capable of performing linear or nonlinear *classification*, *regression*, and even *outlier detection*. It is one of the most popular models in Machine Learning , and anyone interested in ML should have it in their toolbox. SVMs are particularly well suited for classification of complex but small or medium sized datasets. In this post we will explore SVM model for classification and will implement in Python.

@@ -6,6 +6,7 @@ comments: true
 catalog: true
 header-img: files/images/post1.jpg
 tags: intro data-science
+redirect_from: /2017-09-08/what-is-data-science/
 ---
 
 > ### "Data Scientist: The Sexiest Job of the 21st Century" - Harvard Business Review

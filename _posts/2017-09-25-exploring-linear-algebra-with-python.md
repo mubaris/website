@@ -6,6 +6,7 @@ comments: true
 catalog: true
 header-img: files/images/post3.jpg
 tags: python data-science numpy tutorial
+redirect_from: /2017-09-25/exploring-linear-algebra-with-python/
 ---
 
 ## Scalars, Vectors and Matrices

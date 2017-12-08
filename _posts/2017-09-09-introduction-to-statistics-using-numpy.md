@@ -6,6 +6,7 @@ comments: true
 catalog: true
 header-img: files/images/post2.jpg
 tags: python numpy data-science tutorial
+redirect_from: /2017-09-09/introduction-to-statistics-using-numpy/
 ---
 
 Translations - [Russian](http://howtorecover.me/vvedenie-v-statistiku-s-ispolzovaniem-numpy)
