@@ -1,3 +1,5 @@
+permalink:      /:year-:month-:day/:title
+
 # Site settings
 title: Mubaris' Blog
 SEOTitle: Mubaris' Blog
@@ -132,5 +134,3 @@ author:
 #         href: "http://wepiaofei.github.io/blog/"
 #     }
 # ]
-
-permalink:      /:year-:month-:day/:title
