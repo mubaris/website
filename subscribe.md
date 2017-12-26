@@ -57,6 +57,7 @@ I'm going to share with you what's new and cool in the world of Data Science and
 
 ## Archives
 
+* [Issue #5 - Dec 24 2017](https://us16.campaign-archive.com/?u=f9e9a4985cce81e89169df2bf&id=1a1cf4e529)
 * [Issue #4 - Dec 17 2017](https://us16.campaign-archive.com/?u=f9e9a4985cce81e89169df2bf&id=5be6bbdd14)
 * [Issue #3 - Dec 10 217](https://us16.campaign-archive.com/?u=f9e9a4985cce81e89169df2bf&id=50f3f7d7c5)
 * [Issue #2 - Dec 4 2017](https://us16.campaign-archive.com/?u=f9e9a4985cce81e89169df2bf&id=50f3f7d7c5)
