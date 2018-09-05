@@ -21,7 +21,7 @@ A Word Cloud (or tag cloud) is a visual representation for text data, typically 
 
 * Top 1000 most common password
 
-![Password](http://i.imgur.com/FImcPiG.png)
+![Password](https://i.imgur.com/FImcPiG.png)
 
 * Word Cloud of Trump Insults
 
